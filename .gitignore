@@ -112,6 +112,22 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.bsc
+*.sbr
+*.pdb
+*.obj
+*.ilk
+*.idb
+*.lib
+*.exp
+*.res
+*.pch
+*.ipch
 
 # Chutzpah Test files
 _Chutzpah*
